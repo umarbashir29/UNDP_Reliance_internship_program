@@ -3,7 +3,7 @@
 ### **UNDP Program**
 #### ~~DATA UNIT~~
 [Github: umarbashir29@gmail.com](https://github.com/umarbashir29)
-##### ..*THE COVERED TOPICS SO FAR:
+##### THE COVERED TOPICS SO FAR:
 1. introducing Data Unit
 2. downloading the neccessary Applications
 3. Setting up the Database Environment
@@ -12,3 +12,4 @@
 6. connecting database servers together
 7. creating a repository in Github
 8. connecting it with local server.
+Here is the sample of the assessment: ![alt text](Assessment.jpg.png)
