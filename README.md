@@ -1,8 +1,3 @@
-# UNDP_Reliance_internship_program
-## *Bashir Umar Ibrahim*
-### **UNDP Program**
-#### ~~DATA UNIT~~
-[Github: umarbashir29@gmail.com](https://github.com/umarbashir29)
 ##### THE COVERED TOPICS SO FAR:
 1. introducing Data Unit
 2. downloading the neccessary Applications
