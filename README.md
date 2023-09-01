@@ -7,4 +7,3 @@
 6. connecting database servers together
 7. creating a repository in Github
 8. connecting it with local server.
-9. Here is the sample of the assessment: ![alt text](Assessment.jpg.png)
