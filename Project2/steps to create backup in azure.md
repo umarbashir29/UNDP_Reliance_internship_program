@@ -13,5 +13,5 @@
 8. then use the querry to create backup using the url generate. ![backup database](https://github.com/umarbashir29/UNDP_Reliance_internship_program/assets/139869693/b39251a8-3a80-4384-b9ec-f31b9281fea6)
 9. go to azure container to confirm the backup ![confirming Database in azure](https://github.com/umarbashir29/UNDP_Reliance_internship_program/assets/139869693/697538cf-832c-4000-b762-a0008495a026)
 10. to try restoring the database you have to delete it, but make sure the Backup was successfully
-11. after successfully restored of a delete database  ![after successfully restoring a db](https://github.com/umarbashir29/UNDP_Reliance_internship_program/assets/139869693/7bf63b01-7865-46c1-94ad-da4414d0b8f3)
+11. after successfully restoring a deleted database  ![after successfully restoring a db](https://github.com/umarbashir29/UNDP_Reliance_internship_program/assets/139869693/7bf63b01-7865-46c1-94ad-da4414d0b8f3)
 
